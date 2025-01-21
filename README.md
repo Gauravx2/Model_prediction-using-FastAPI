@@ -120,17 +120,6 @@ python-multipart
 
 Install all dependencies using the requirements.txt file.
 
-Future Improvements
-
-Add authentication for API endpoints.
-
-Enhance model with more advanced algorithms.
-
-Deploy API to cloud platforms like AWS or Azure.
-
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
