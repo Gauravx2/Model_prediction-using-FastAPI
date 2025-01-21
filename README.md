@@ -25,8 +25,8 @@ Installation
 
 Clone the repository:
 
-git clone <repository_url>
-cd <repository_directory>
+git clone [<repository_url>](https://github.com/Gauravx2/Model_prediction-using-FastAPI)
+
 
 Install required dependencies:
 
